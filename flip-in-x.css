@@ -77,11 +77,11 @@
 
 .flip-in-x {
 	-webkit-backface-visibility: visible !important;
-	-webkit-animation-name: flipInX;
+	-webkit-animation-name: flip-in-x;
 	-moz-backface-visibility: visible !important;
-	-moz-animation-name: flipInX;
+	-moz-animation-name: flip-in-x;
 	-o-backface-visibility: visible !important;
-	-o-animation-name: flipInX;
+	-o-animation-name: flip-in-x;
 	backface-visibility: visible !important;
-	animation-name: flipInX;
+	animation-name: flip-in-x;
 }
