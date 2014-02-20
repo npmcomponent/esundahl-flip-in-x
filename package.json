@@ -1,0 +1,17 @@
+{
+  "name": "esundahl-flip-in-x",
+  "description": "flipInX animation",
+  "version": "0.0.1",
+  "keywords": [
+    "css3",
+    "animation",
+    "flip-in-x"
+  ],
+  "styles": [
+    "flip-in-x.css"
+  ],
+  "dependencies": {
+    "esundahl-animated": "git://github.com/npmcomponent/esundahl-animated.git"
+  },
+  "license": "MIT"
+}
